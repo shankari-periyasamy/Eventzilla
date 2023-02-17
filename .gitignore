@@ -1,0 +1,8 @@
+bin/lib/TempTestCase*
+bin/lib/TempTestSuite*
+Libs/TempTestCase*
+/bin/
+/Libs/
+/.settings/
+/.classpath
+.svn/
